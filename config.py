@@ -1,1 +1,0 @@
-apikey="1AyzvyBrGMsqcZY9ydry"
