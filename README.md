@@ -1,5 +1,6 @@
 # Project-1
 Group 3
+
 https://docs.google.com/presentation/d/1KWbXadK3VwhmyAKGE7ip4fId99K_JiWmKiD3gNV4ajQ/edit?usp=sharing
 
 # Statistical analysis
@@ -17,7 +18,7 @@ The C value correlation was very high, even close to a value of 1 in regards to 
 
 The mean of each stock can be taken into consideration when determining its middle point, as it takes variability into consideration. BUD and TAP were the closest means, with BUD at 56.7, and TAP at 56.9. KO and PEP had the highest difference with KO at 59.6 and PEP at 173.8. SBUX and BROS had means of 96.2 and 30.2 respectively.
 
-The lowest variation and standard deviation was KO, with a varience of 8.28 and standard deviation of 2.88, suggesting that it is the most stable of the stocks tracked. The two runner ups were BUD with a varience of 18 and standard deviation of 4.25, and DUTCH with a varience of 20 and a standard deviation of 4.48. While this does not determine the profitability, a more stable stock may be more desirable for long term investment.
+The lowest variation and standard deviation was KO, with a varience of 8.28 and standard deviation of 2.88, suggesting that it is the most stable of the stocks tracked. The two runner ups were BUD with a varience of 18 and standard deviation of 4.25, and TAP with a varience of 29 and a standard deviation of 5.4. While this does not determine the profitability, a more stable stock may be more desirable for long term investment.
 
 # Question answers
 
