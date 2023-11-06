@@ -12,7 +12,7 @@ The primary variable that we are using as a point of reference is C, or closing 
 
 The dataset contained no outliers, which could be attributed to it being a small dataset, or that the stocks experienced no sudden spikes or loss of value in the last two years. This suggests that the stocks are allrelatively stable in their courses.
 
-The C value correlation was very high, even clost to one in regards to the other price point variables, which was to be expected. However, the volume weighted variable was not expected to be as high, with a .99. Volume weighted was not used in any other tests, so this abnormality was disregarded.
+The C value correlation was very high, even close to a value of 1 in regards to the other price point variables, which was expected. However, the volume weighted variable was not expected to be as high, with a .99 coefficient. Volume weighted was discarded and not used in any other analysis, so this abnormality was disregarded.
 
 The mean of each stock can be taken into consideration when determining its middle point, as it takes variability into consideration. BUD and TAP were the closest means, with BUD at 56.7, and TAP at 56.9. KO and PEP had the highest difference with KO at 59.6 and PEP at 173.8. SBUX and BROS had means of 96.2 and 30.2 respectively.
 
