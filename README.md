@@ -23,6 +23,6 @@ The lowest variation and standard deviation was KO, with a varience of 8.28 and 
 # ---------------------------
 1) The entire dataset shows a downward trend of twenty two cents per month, suggesting that the current trends of the beverage market are not worth investing in short term.
 
-2) Beer stocks were the only group trending up, at a gain of fourteen cents per month. Soda was trending down at a loss of eight cents per month, and coffe at seventy cents per month.
+2) Beer stocks were the only group trending up, at a gain of fourteen cents per month. Soda was trending down at a loss of eight cents per month, and coffee at seventy cents per month.
 
 3) The clear winner was TAP, with a gain of fourty five cents per month. The clear loser was BROS at a loss of a dollar sixty two per month. BUD trended down at seventeen cents per month, KO also trended down at thirty one cents per month. The other two stocks were positive, with PEP up fourteen cents, and SBUX up twenty one cents. 
