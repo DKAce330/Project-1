@@ -10,11 +10,11 @@ The reseach asks the question if it is wise to invest in beverage stocks. We ach
 
 Stock data was found using the Polygon API, tracing two years of trends at the start of each month. The main groups were beer with Budweiser (BUD) and Coors (TAP), soda with Coke (KO) and Pepsi (PEP), and coffee with Starbucks (SBUX) and Dutch bros (BROS).
 
-The primary variable that we are using as a point of reference is C, or closing price. This allows for a consistant way to track pricing for each point in time.
+The primary variable that we are using as a point of reference is C, or closing price. This allows for a consistant way to track the price for each point in time.
 
-The dataset contained no outliers, which could be attributed to it being a small dataset, or that the stocks experienced no sudden spikes or loss of value in the last two years. This suggests that the stocks are allrelatively stable in their courses.
+The dataset contained no outliers, which could be attributed to it being a small dataset, or that the stocks experienced no sudden spikes or loss of value in the last two years. This suggests that the stocks are all relatively stable in their courses.
 
-The C value correlation was very high, even close to a value of 1 in regards to the other price point variables, which was expected. However, the volume weighted variable was not expected to be as high, with a .99 coefficient. Volume weighted was discarded and not used in any other analysis, so this abnormality was disregarded.
+The C value correlation was very high, even close to a value of 1 in regards to the other price point variables as expected. However, the volume weighted variable was not expected to be as high, with a .99 coefficient. Volume weighted was discarded and not used in any other analysis, so this abnormality was disregarded.
 
 The mean of each stock can be taken into consideration when determining its middle point, as it takes variability into consideration. BUD and TAP were the closest means, with BUD at 56.7, and TAP at 56.9. KO and PEP had the highest difference with KO at 59.6 and PEP at 173.8. SBUX and BROS had means of 96.2 and 30.2 respectively.
 
